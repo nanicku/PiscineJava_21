@@ -2,7 +2,7 @@ package ex03;
 
 import java.util.Scanner;
 
-public class Program {
+public class Program_ex03 {
     private static final int MAX_GRADE = 9;
     private static final int MAX_COUNT_GRADE = 5;
     private static final int MAX_COUNT_WEEK = 18;

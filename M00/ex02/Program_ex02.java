@@ -2,7 +2,7 @@ package ex02;
 
 import java.util.Scanner;
 
-public class Program {
+public class Program_ex02 {
     public static void main(String[] args) {
         Scanner myVar = new Scanner(System.in);
 

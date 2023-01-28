@@ -1,6 +1,6 @@
 package ex00;
 
-public class Program {
+public class Program_ex00 {
     public static void main(String[] args) {
         int number = 479598;
 
