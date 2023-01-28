@@ -9,6 +9,10 @@
       <sourceFolder url="file://$MODULE_DIR$/M04/ex00/ImagesToChar/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/M04/ex01/ImagesToChar/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/M04/ex02/ImagesToChar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/M05/ex00/Chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/M05/ex01/Chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/M05/ex02/Chat/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/M05/ex01/Chat/src/main/java/edu/school21/chat/repositories" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
