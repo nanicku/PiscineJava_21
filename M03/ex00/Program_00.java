@@ -5,6 +5,8 @@ public class Program_00 implements Runnable {
 
     private String message;
 
+
+
     private static int cycleCount = 0;
 
     public static void main(String[] args) throws InterruptedException {
